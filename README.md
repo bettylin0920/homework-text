@@ -1,5 +1,5 @@
 # homework-text
-python-url /n
+python-url 
 
 **0213319 betty HW1.py**
 
