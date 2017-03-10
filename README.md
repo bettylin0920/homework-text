@@ -1,5 +1,6 @@
 # homework-text
-python-url
+python-url /n
+
 **0213319 betty HW1.py**
 
 repository for Text Mining Assignment
